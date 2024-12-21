@@ -5,6 +5,7 @@ This repository contains the backend API for a food delivery application, built 
 ---
 API: https://zingbitesapi-production.up.railway.app/api/v1
 
+POSTMAN COLLECTION: https://www.postman.com/warped-astronaut-754683/mypublicworkspace/documentation/i5ue2nf/food-delivery-api
 ## **Features**  
 - **User Authentication**: Secure login/logout functionality using JWT.  
 - **Role-Based Access Control**: Separate access levels for users and admins.  
